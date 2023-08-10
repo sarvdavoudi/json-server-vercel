@@ -1,2 +1,4 @@
-# Dependencies
+# Dependency directories
 node_modules/
+
+.idea
