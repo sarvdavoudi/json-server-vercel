@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Leanne Graham",
+      "email": "leanne@gmail.com"
+    },
+    {
+      "name": "Hannah Galloway",
+      "email": "xumo@mailinator.com",
+      "id": 2
+    },
+    {
+      "name": "Hedda Parsons",
+      "email": "tajyfo@mailinator.com",
+      "id": 3
+    }
+  ]
+}
