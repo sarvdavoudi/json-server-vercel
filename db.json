@@ -1,19 +1,37 @@
-{
-  "users": [
-    {
-      "id": 1,
-      "name": "Leanne Graham",
-      "email": "leanne@gmail.com"
-    },
-    {
-      "name": "Hannah Galloway",
-      "email": "xumo@mailinator.com",
-      "id": 2
-    },
-    {
-      "name": "Hedda Parsons",
-      "email": "tajyfo@mailinator.com",
-      "id": 3
-    }
-  ]
-}
+[
+  {
+    "name": "Melissa Doyle",
+    "email": "Katharina.Hammes75@gmail.com",
+    "id": "1"
+  },
+  {
+    "name": "Lora Hammes",
+    "email": "Alicia96@gmail.com",
+    "id": "2"
+  },
+  {
+    "name": "Toni Johnston",
+    "email": "Immanuel.Frami74@hotmail.com",
+    "id": "3"
+  },
+  {
+    "name": "Maureen Lynch",
+    "email": "Kolby_Koss@yahoo.com",
+    "id": "4"
+  },
+  {
+    "name": "Boyd Gottlieb",
+    "email": "Theodore_Ziemann@hotmail.com",
+    "id": "5"
+  },
+  {
+    "name": "Kristen Fahey",
+    "email": "Melba.Trantow77@gmail.com",
+    "id": "6"
+  },
+  {
+    "name": "Laurie Stiedemann7",
+    "email": "Fleta_Walker@yahoo.com",
+    "id": "7"
+  }
+]
